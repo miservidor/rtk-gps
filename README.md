@@ -56,3 +56,35 @@ https://www.waveshare.com/wiki/LC29H(XX)_GPS/RTK_HAT
 
 Antenas GNSS Networks (europa)
 https://epncb.oma.be/_networkdata/stationmaps.php
+
+
+# Quectel LC29H Dual-Band Multi-Constellation GNSS Modules
+
+![Diagram](./docs/images/Block%20Diagram.webp)
+
+Quectel LC29H Dual-Band Multi-Constellation GNSS Modules are based on the MTK platform and can concurrently track GPS, BeiDou, Galileo, and QZSS satellite signals. The modules use L1/L5 bands, and GLONASS satellite signals on the L1 band. Compared with GNSS modules that can track only L1 signals, LC29H can track more visible satellites, thereby significantly mitigating the multipath effect in urban canyons, reducing signal acquisition time, and improving positioning accuracy. The modules support plenty of tracking channels, which leads to superior navigation performance.
+
+## Features
+- Multi-GNSS engine for GPS, GLONASS, BeiDou, Galileo, and QZSS
+- Reception of L1 and L5 GNSS band signals concurrently
+- Optional integrated DR function
+- Optional RTK providing sub-meter accuracy with fast convergence time and outstanding performance
+- Integrated LNAs for high-sensitivity
+- Integrated SAW filters for noise cancellation
+- Support UART, USB, SPI, and I2C interfaces
+- Integrated AGNSS function
+- B13 band suppression design that reduces interferences from this band by 20dB
+- Support EPO™, EASY™, LOCUS™
+- Integrated AIC and jamming function
+- Ultra-low-power consumption
+- Ultra-compact size, 12.2mm × 16.0mm × 2.5mm
+    -165dBm tracking sensitivity
+    -40°C to +85°C operating temperature range
+RoHS-compliant
+
+
+## Applications
+Real-time tracking
+Sharing economy-related services
+Power-sensitive systems
+Battery-powered systems

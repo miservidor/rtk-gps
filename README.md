@@ -23,13 +23,18 @@ El rover es un receptor móvil que también recibe señales de satélites GNSS, 
 ### Test 1:
 
 **Base:**
-- Módulo LC29H(BS) HAT
-- Raspberry Pi 4B
+- Módulo LC29H(BS) HAT 
+    - https://www.aliexpress.com/item/1005007938172350.html
+
+- Raspberry Pi 4B / ESP 32
 
 **Rover:**
 - Módulo LC29H(DA) HAT
-- Raspberry Pi 4B
+    -   https://www.aliexpress.com/item/1005007513127879.html
+- Raspberry Pi 4B / ESP 32
 
+
+[Ficha Tecnica LC29H](./docs/Quectel_Product_Brochure_V8.2.pdf)
 
 ## Configuración y Pruebas
 

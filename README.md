@@ -34,7 +34,10 @@ El rover es un receptor móvil que también recibe señales de satélites GNSS, 
 - Raspberry Pi 4B / ESP 32
 
 
-[Ficha Tecnica LC29H](./docs/Quectel_Product_Brochure_V8.2.pdf)
+
+[Ficha Tecnica LC29H](./docs/Quectel_LC29H_GNSS_Specification_V11-1.pdf)
+
+[Ficha Tecnica mas prod QUetel](./docs/Quectel_Product_Brochure_V8.2.pdf)
 
 ## Configuración y Pruebas
 
@@ -46,7 +49,7 @@ En las siguientes etapas del proyecto, se documentará el proceso de configuraci
 Este documento se actualizará conforme avancemos en las pruebas y se realicen ajustes al sistema.
 
 
-
+# Links
 
 
 https://www.waveshare.com/lc29h-gps-hat.htm?sku=25280
@@ -56,6 +59,8 @@ https://www.waveshare.com/wiki/LC29H(XX)_GPS/RTK_HAT
 
 Antenas GNSS Networks (europa)
 https://epncb.oma.be/_networkdata/stationmaps.php
+
+
 
 
 # Quectel LC29H Dual-Band Multi-Constellation GNSS Modules
